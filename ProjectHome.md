@@ -1,0 +1,1 @@
+Automated syntax checking for Snort rules
